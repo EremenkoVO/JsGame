@@ -25,7 +25,3 @@ while(guess != number) {
 }
 
 alert("Ты угадал это число " + number + ", за " + numberOfGuesses + " шагов");
-
-
-
-
